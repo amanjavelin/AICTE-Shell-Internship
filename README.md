@@ -1,2 +1,2 @@
 # AICTE-Shell-Internship
-Develop an accurate and efficient garbage classification model using appropriate Convolutional Neural Network (CNN) and transfer learning for automated waste sorting.
+In this project, we aim to develop a sophisticated garbage classification system leveraging an appropriate CNN architecture. Our primary dataset serves as a foundation for building models that can eventually automate waste segregation, a critical step in optimizing recycling and waste management, ultimately aiding in environmental conservation.
