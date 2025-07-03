@@ -1,2 +1,2 @@
-# AICTE-Shell-Internship
+# Garbage Classification
 In this project, we aim to develop a sophisticated garbage classification system leveraging an appropriate CNN architecture. Our primary dataset serves as a foundation for building models that can eventually automate waste segregation, a critical step in optimizing recycling and waste management, ultimately aiding in environmental conservation.
